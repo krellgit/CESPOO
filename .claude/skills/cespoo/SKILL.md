@@ -1,8 +1,7 @@
-# CESPOO Email Summarization Skill
-
-**Name:** cespoo
-**Description:** Fetch, categorize, summarize emails and send daily digest
-**Invoke:** User types `/cespoo`
+---
+name: cespoo
+description: Fetch, categorize, summarize emails and send daily digest
+---
 
 ## What This Skill Does
 
