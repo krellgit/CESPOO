@@ -1,5 +1,39 @@
 # CESPOO Checkpoints
 
+## CESP-002 - 2026-02-06T21:35:00-08:00
+
+**Summary:** Fixed skill format with YAML frontmatter
+
+**Goal:** Fix the `/cespoo` skill so it can be properly recognized and invoked by Claude Code.
+
+**Status:** Complete
+
+**Changes:**
+1. Renamed skill file from `cespoo.md` to `SKILL.md`
+2. Restructured directory: `.claude/skills/cespoo/SKILL.md`
+3. Added YAML frontmatter with name and description fields
+4. Removed markdown headers that conflicted with YAML format
+
+**Files modified:**
+1. .claude/skills/cespoo/SKILL.md (renamed from cespoo.md)
+
+**Commits:**
+1. ef7ee5a - Fix skill format - rename to SKILL.md with YAML frontmatter
+
+**Key decisions:**
+1. **YAML frontmatter required**: Skills must use YAML frontmatter (`---` blocks) with `name:` and `description:` fields. The previous format with markdown headers like `**Name:**` doesn't work - Claude Code looks for proper YAML structure.
+
+2. **Directory structure matters**: Skills must be in `.claude/skills/{skillname}/SKILL.md` format, not `.claude/skills/{skillname}.md`. The SKILL.md filename is required.
+
+**Blockers:** None
+
+**Next steps:**
+1. Test `/cespoo` command to verify skill works
+2. Process actual emails and generate first summary
+3. Review email summary format and adjust if needed
+
+---
+
 ## CESP-001 - 2026-02-06T20:30:00-08:00
 
 **Summary:** Built email digest system with Gmail + Claude Code skill
