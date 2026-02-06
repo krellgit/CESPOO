@@ -8,9 +8,8 @@ load_dotenv()
 SOURCE_EMAIL = "Krell@KeplerCommerce.com"
 DESTINATION_EMAIL = "JohnKrell.StaAna1@gmail.com"
 
-# Gmail API settings
-SCOPES = ['https://www.googleapis.com/auth/gmail.readonly',
-          'https://www.googleapis.com/auth/gmail.send']
+# Gmail API settings - Full Gmail access
+SCOPES = ['https://mail.google.com/']
 
 # Email categories for classification
 EMAIL_CATEGORIES = [
