@@ -1,142 +1,126 @@
 # CESPOO Setup Guide
 
+## Overview
+
+CESPOO is a Claude Code skill that fetches, categorizes, and summarizes your emails on-demand. No API costs - uses your existing Claude Code session!
+
 ## Prerequisites
 
-1. Python 3.8 or higher installed
-2. Anthropic API key
+1. Python 3.8+ (already installed ✓)
+2. Claude Code CLI (you're using it now ✓)
 3. Google Cloud Project with Gmail API enabled
-4. Access to both email accounts:
-   - Krell@KeplerCommerce.com (source)
-   - JohnKrell.StaAna1@gmail.com (destination)
+4. OAuth credentials (credentials.json already in place ✓)
 
 ## Setup Steps
 
-### 1. Install Dependencies
+### 1. Install Dependencies (Already Done ✓)
 
 ```bash
 cd /mnt/c/Users/Krell/Documents/Imps/gits/CESPOO
-pip install -r requirements.txt
+venv/bin/pip install -r requirements.txt
 ```
 
-### 2. Set Up Gmail API Credentials
+### 2. First Run - Gmail Authentication
 
-#### 2.1. Create Google Cloud Project
-
-1. Go to [Google Cloud Console](https://console.cloud.google.com/)
-2. Create a new project or select existing one
-3. Enable the Gmail API:
-   - Go to "APIs & Services" > "Library"
-   - Search for "Gmail API"
-   - Click "Enable"
-
-#### 2.2. Create OAuth 2.0 Credentials
-
-1. Go to "APIs & Services" > "Credentials"
-2. Click "Create Credentials" > "OAuth client ID"
-3. If prompted, configure the OAuth consent screen:
-   - User Type: Internal (if using Google Workspace) or External
-   - Add your email as a test user
-   - Scopes: Add Gmail API scopes (will be requested by the app)
-4. Application type: "Desktop app"
-5. Download the credentials
-6. Rename the downloaded file to `credentials.json`
-7. Place `credentials.json` in the CESPOO project root directory
-
-### 3. Configure Environment Variables
-
-1. Copy the example environment file:
-   ```bash
-   cp .env.example .env
-   ```
-
-2. Edit `.env` and add your Anthropic API key:
-   ```
-   ANTHROPIC_API_KEY=sk-ant-...your-key-here
-   RUN_TIME=09:00
-   ```
-
-### 4. First Run - Authentication
-
-Run the script for the first time to authenticate:
+Run the email fetcher once to authenticate:
 
 ```bash
-python main.py --now
+cd /mnt/c/Users/Krell/Documents/Imps/gits/CESPOO
+venv/bin/python3 process_emails.py
 ```
 
 This will:
-1. Open a browser window for Google OAuth authentication
-2. Ask you to select the Krell@KeplerCommerce.com account
+1. Open a browser window for Google OAuth
+2. Ask you to select **Krell@KeplerCommerce.com** (IMPORTANT!)
 3. Grant permissions to read and send emails
-4. Save the authentication token to `token.json`
+4. Save the token to `token.json`
 
-**Important:** Make sure you authenticate with the Krell@KeplerCommerce.com account, not your personal Gmail.
+### 3. Test the Skill
 
-### 5. Test the Setup
-
-After authentication, the script will immediately process your emails and send a summary to JohnKrell.StaAna1@gmail.com.
-
-Check your inbox to verify the summary email arrived correctly.
-
-## Running CESPOO
-
-### Run Once (Testing)
-
-```bash
-python main.py --now
+In Claude Code, type:
+```
+/cespoo
 ```
 
-### Run on Schedule
+This will:
+1. Fetch unread emails from the last 24 hours
+2. Ask Claude Code to categorize and summarize them
+3. Send the summary to JohnKrell.StaAna1@gmail.com
 
-```bash
-python main.py
-```
+## How It Works
 
-This will run the script continuously, processing emails at the configured time each day (default: 9:00 AM).
+### The Flow
 
-### Run as Background Service (Linux/WSL)
+1. **You invoke**: Type `/cespoo` in Claude Code
+2. **Fetch emails**: Script downloads emails from Krell@KeplerCommerce.com
+3. **Claude processes**: I (Claude Code) read, categorize, and summarize
+4. **Send summary**: Beautiful HTML email sent to JohnKrell.StaAna1@gmail.com
 
-Create a systemd service or use `nohup`:
+### Email Categories
 
-```bash
-nohup python main.py > cespoo.log 2>&1 &
-```
-
-### Run as Scheduled Task (Windows)
-
-Use Windows Task Scheduler to run `python main.py --now` at your desired time.
+Emails are categorized into:
+1. Amazon Advertising
+2. Listing Optimization
+3. Recent Trends in Amazon
+4. AI Trends connected to Amazon
+5. Other AI Trends
+6. Uncategorized
 
 ## Configuration
 
-Edit `config.py` to customize:
+Edit `/mnt/c/Users/Krell/Documents/Imps/gits/CESPOO/config.py` to customize:
 
-1. Email categories
-2. Lookback period (default: 24 hours)
-3. Unread only vs all emails
-4. Email addresses (if needed)
+```python
+# Change email addresses
+SOURCE_EMAIL = "Krell@KeplerCommerce.com"
+DESTINATION_EMAIL = "JohnKrell.StaAna1@gmail.com"
+
+# Change processing settings
+PROCESS_UNREAD_ONLY = True  # Set to False to process all emails
+LOOKBACK_HOURS = 24  # How far back to look
+
+# Modify categories
+EMAIL_CATEGORIES = [
+    "Your Category 1",
+    "Your Category 2",
+    # ...
+]
+```
 
 ## Troubleshooting
 
 ### "credentials.json not found"
-
-Make sure you've downloaded and placed the OAuth credentials file in the project root.
+The file is already in place. If missing, re-download from Google Cloud Console.
 
 ### "Invalid grant" or authentication errors
+Delete `token.json` and run `venv/bin/python3 process_emails.py` again.
 
-Delete `token.json` and run `python main.py --now` again to re-authenticate.
+### "No emails found"
+1. Check there are unread emails in Krell@KeplerCommerce.com
+2. Adjust `LOOKBACK_HOURS` in config.py
+3. Set `PROCESS_UNREAD_ONLY = False` to process all emails
 
-### "Anthropic API error"
+### Skill not found
+Make sure you're in a Claude Code session and the skill file exists at:
+`/mnt/c/Users/Krell/Documents/Imps/gits/CESPOO/.claude/skills/cespoo.md`
 
-Verify your API key is correct in the `.env` file.
+## Usage Tips
 
-### No emails found
+1. **Run on-demand**: Use `/cespoo` whenever you want a summary
+2. **Morning routine**: Run it first thing to see overnight emails
+3. **Before meetings**: Quick summary of what's important
+4. **End of day**: Review what came in during the day
 
-1. Check the time range in `config.py` (LOOKBACK_HOURS)
-2. Verify there are unread emails in your inbox if PROCESS_UNREAD_ONLY is True
-3. Check that you're authenticated with the correct Gmail account
+## Advantages Over API Approach
 
-## Security Notes
+1. **No API Costs**: Uses your existing Claude Code session
+2. **Full Control**: You decide when to run it
+3. **Transparent**: You see exactly what Claude is doing
+4. **Flexible**: Easy to adjust the prompt or categories on the fly
 
-1. Never commit `credentials.json`, `token.json`, or `.env` to version control
-2. Keep your Anthropic API key secure
-3. The OAuth token has read and send permissions - protect it accordingly
-4. Review the Gmail API scopes to ensure they match your security requirements
+## Next Steps
+
+Ready to test? Just type:
+```
+/cespoo
+```
