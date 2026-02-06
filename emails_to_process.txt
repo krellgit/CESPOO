@@ -1,0 +1,483 @@
+EMAILS TO CATEGORIZE AND SUMMARIZE
+Total Emails: 17
+Date: 2026-02-06 21:21:15
+
+Categories to use:
+  - Amazon Advertising
+  - Listing Optimization
+  - Recent Trends in Amazon
+  - AI Trends connected to Amazon
+  - Other AI Trends
+  - Uncategorized
+
+================================================================================
+
+================================================================================
+EMAIL 1
+================================================================================
+Subject: Grace & Stella: #520 → #28 BSR (here's how)
+From: Kevin King <kevink@amzmarketer.com>
+Date: Fri, 6 Feb 2026 12:41:02 +0000
+
+Body:
+Stop guessing what moves Amazon rank
+
+
+
+https://clicks.aweber.com/y/ct/?l=f6wA&m=izKwKlLEPFonq7L&b=03hTgNMi2ZbF.aQOrXf_Lw
+
+
+Good product. Good reviews. Good pricing.
+
+Sometimes, it’s still not enough for Amazon visibility.
+
+Grace & Stella
+
+https://clicks.aweber.com/y/ct/?l=f6wA&m=izKwKlLEPFonq7L&b=3JxQoE3gwi.HhQzlvSa_Xw
+, an award-winning beauty brand, checked all the boxes.
+But, they were still buried deep in the rankings.
+
+That’s when they changed how shoppers discovered them - by hyper-focusing on demand, not hacks.
+
+Partnering with Levanta, the brand doubled down on vetted publishers, creators and affiliates that sent qualified, high-intent traffic directly to Amazon. When those clicks converted, Amazon rewarded them.
+
+The impact:
+ • $350,000+ in affiliate-driven sales
+ • BSR soared from #520 to #28 in Beauty & Personal Care
+ • 362,384 external product clicks
+The momentum drove revenue and visibility. Most brands stop short of seeing which clicks improve ra...
+
+
+================================================================================
+EMAIL 2
+================================================================================
+Subject: API usage has reached your notification threshold
+From: "'OpenAI' via Shared Access" <sharedaccess@keplercommerce.com>
+Date: Fri, 06 Feb 2026 11:31:16 +0000
+
+Body:
+<!DOCTYPE html>
+<html>
+<head>
+  
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>
+  
+    API usage has reached your notification threshold
+  
+</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style type="text/css">
+  /**
+   * Google webfonts. Recommended to include the .woff version for cross-client compatibility.
+   */
+  @media screen {
+    @font-face {
+      font-family: Colfax;
+      src: url(https://openai-public.s3-us-west-2.amazonaws.com/beta/fonts/ColfaxAIRegular.woff2);
+      font-weight: normal;
+    }
+
+    @font-face {
+      font-family: Colfax;
+      src: url(https://openai-public.s3-us-west-2.amazonaws.com/beta/fonts/ColfaxAIMedium.woff2);
+      font-weight: bold;
+    }
+  }
+
+  /**
+   * Avoid browser level font resizing.
+   * 1. Windows Mobile
+   * 2. iOS / OSX
+   */
+  body,
+  table,
+  td,
+  a {
+    -ms-text-size-adjust: 100%; /* 1 */
+    -webkit-text-size-adjust...
+
+
+================================================================================
+EMAIL 3
+================================================================================
+Subject: Recap for "Daily Stand-up | Product - Advertising"
+From: Fathom <no-reply@fathom.video>
+Date: Fri, 06 Feb 2026 11:27:31 +0000
+
+Body:
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+  <head>
+    <!--[if gte mso 9]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]-->
+    <title>FATHOM</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Inter:300,400,500,600,700" rel="stylesheet">
+    <style type="text/css">
+      a{
+        outline:none;
+        color:#00BEFF;
+        text-decoration:underline;
+      }
+      a:hover{text-decoration:none!important;}
+      .h-u a{text-decoration:none;}
+      .h-u a:hover{text-decoration:underline!important;}
+      a[x-apple-data-detector...
+
+
+================================================================================
+EMAIL 4
+================================================================================
+Subject: ⏪ Pre-Read for your upcoming meeting: Kepler CN team sync on Fri, Feb 06 2026 @ 09:00AM CET
+From: "'Alexandra Komyshan via Read AI' via Shared Access" <sharedaccess@keplercommerce.com>
+Date: Fri, 06 Feb 2026 07:10:30 +0000 (UTC)
+
+Body:
+
+
+👋 You're receiving this because you have an upcoming meeting with *Alexandra Komyshan* and they wanted to share a review of the previous meeting.
+
+
+
+
+
+Pre-Read: Kepler CN team sync
+Upcoming meeting Fri, Feb 06 2026 @ 09:00AM CET
+
+( https://u25608997.ct.sendgrid.net/ls/click?upn=u001.CrUrehIev9dAOd9CS5LlcqT6AXLwm3zPvY-2F0dk-2F0ZQdvC0yhddUASLWsGBnzOLZsM0EMvVSg4raUKGdhTlH5rvSVMz87daRiIyMBaTSgHYGYG-2B8zMBmU6t3taVgBvlSeTiEfwkSMCQngGqAcf1HFzyN4xUz70V7Ezm4hIpCkY7psoFaK2xtUYB30pUGIZ7og6BlFCGA0FODwMAqtDU7XMQ-3D-3DW1Cr_tQPfl-2B9pATglsaXr6RiFLeITigmqQyTyXbaEETJRYS50SfoF3TKsY866aBljR-2BfIXF0sm0jnDauWjNCoOetBdVLPv1yslCeC-2B2PyQY4DNXoRXwVD8dsriSb7009SqMpgpwugj2WqfgoL9pjMNp2q9v1CD-2FeOxhed-2F6GjarOLpUEL-2BP53dHXnG-2BeTBlolbk1gWm-2BVUKMmuQ5bJ6PnzK3zNTQfdYhzeLNqeU-2B7uYNqEJOozf29Wt5pHEXwH7kfaQ4J9pfcFJrpWrxIcrRhEkbLhPx6s4IA0MG5i6T0m7h-2BX-2F4yAhH4U5IZ3geh93HowmmIDoWKMQejX7uT-2Fva2vIsV580sCQLPN-2ByOyk-2BYawKa5McPRAxn0HF0EYmVgGrdHJbBARgoS02-2FvBR-2FMEPO2ZZfFr-2BuMCv2IDgZ5zeQjvoA3-2B-2FB-2FgVH...
+
+
+================================================================================
+EMAIL 5
+================================================================================
+Subject: Krell, 6 steps to build a candidate shortlist
+From: SEEK Hiring Advice <noreply@email.seek.com.au>
+Date: Thu, 05 Feb 2026 23:03:50 -0600
+
+Body:
+
+
+SEEK
+ 
+
+ Having trouble viewing this email? 
+https://view.email.seek.com.au/?qs=eyJkZWtJZCI6ImVjYjBjNDQ1LThjMjktNDExMy1iNWI5LTNhZGNkN2Y1ODM4MCIsImRla1ZlcnNpb24iOjEsIml2IjoiYmFkd205Z2FIazl4RWpmK2ViNTU5QT09IiwiY2lwaGVyVGV4dCI6IlYwYWQwZ3dqVzRrMS9xYld2bis4RXY3YXJQelIzUDBFVzUzK0RhYzBOY0dyTmpqemlHMkFReU54OVJTeUV1T01yS1ZRNC9uZzNNeWcxZVo2VWFHRk5xK2ErMytjZWMzNlI0M3VINzZRZlFMejFKYUJDZmdUWGFwKzdKdUpyWnB0cDNDYjJCb2VUM0VTTi81NXZubjAiLCJhdXRoVGFnIjoiQXZQVWxvRUorQk5kcW43c200bXRtZz09In0%3D 
+View it in your browser 
+
+ 
+
+https://click.email.seek.com.au/?qs=eyJkZWtJZCI6IjY3MjJkOGJiLTAxY2MtNGUyMC1hZWY2LTMwNDRiZjkzYzdiOCIsImRla1ZlcnNpb24iOjEsIml2IjoiY1hUemtwZ3ZLbEFFcXdUS1g0ckFmUT09IiwiY2lwaGVyVGV4dCI6InlYRnY5aGg3UWNpclVCcnl1Z2I4ZDg0eDIwa0Z3YWNBQ1FVSjZPQmI0WVQ5Q3gvNDM3eGpxemROUEoyanUrbDRhVFYzY1YzVVFtSlZsY1dRczRMMkN2R0VLaXhWUTl3cDdBeDVrQ2h4ZFBPU21DOHFVQVNyQk1wZmlzQjkiLCJhdXRoVGFnIjoiZ3ZZSzhZUXFMRlZEM0Nuc0RIbVFLQT09In0%3D 
+
+
+ 
+ 
+https://click.email.seek.com.au/?qs=eyJkZWtJZCI6IjAzOTU3NTVkLTg...
+
+
+================================================================================
+EMAIL 6
+================================================================================
+Subject: Introducing Claude Opus 4.6
+From: "'Claude Team' via Shared Access" <sharedaccess@keplercommerce.com>
+Date: Fri, 06 Feb 2026 05:00:36 +0000
+
+Body:
+Try our most intelligent model yet, plus agent teams on Claude Code (in 
+research preview).
+
+
+
+ <https://claude.ai>
+
+
+
+Hello Claude Admin,
+
+
+
+Today, we're introducing Claude Opus 4.6—our most intelligent model yet, and 
+the world’s best model for coding, enterprise agents, and professional work.
+
+
+
+Here’s what else is launching:
+
+
+ * Claude in PowerPoint (research preview in beta): Build, edit, and refine 
+presentations with natural language instructions while Claude respects 
+templates, layouts, and formatting rules already in use. This feature requires 
+admin set up before your team can access it.Learn more 
+<https://support.claude.com/en/articles/13521390-using-claude-in-powerpoint?utm_source=it&utm_medium=email&utm_campaign=model-launch&utm_term=team_admin>
+.
+
+
+ * Claude in Excel improvements: New features and improvements include: 
+auto-compacting, multi-file uploads, prompt caching, conditional formatting, 
+pivot table editing, and data validation. ...
+
+
+================================================================================
+EMAIL 7
+================================================================================
+Subject: This week on Billion Dollar Sellers Club: January 29 - February 5, 2026
+From: Billion Dollar Sellers Club <no-reply@notification.circle.so>
+Date: Thu, 05 Feb 2026 22:24:21 +0000
+
+Body:
+Billion Dollar Sellers Club logo 
+( https://email.notification.circle.so/c/eJwUz11ygyAQAODTwJsOPwurDzz0JdfIhN21cQSxaNpJT9_pET5qtb729XrfV04eEQxoThHIImtJFtF4b1y0-pl45kkAlyxgMYNYb0IIs3FTdIvErNcU5ynYaQ6Ieb5b50UWAxgRICgwLEdp7yr7NeQHbZ-9vXYedvk5hwkCBCbiOPx-bY7H-liLLul5Xcep_IdyN-VumU8aae1UZDybcjfd09alFAVmk6NI__dIJxmpVf2d3F8AAAD__850RMs )
+
+****************************************
+This week on Billion Dollar Sellers Club
+****************************************
+
+January 29 - February 5, 2026
+-----------------------------
+
+-----------------------------------------------------------------
+Can’t target by device on Amazon… what if there was a workaround?
+
+( https://email.notification.circle.so/c/eJws0MGuqyAQgOGn0d0YxQHqgsXd9DWaAaaViOAFWtM-_UlPzvZb_fld3vdnCu19C97MWuOIvTcK3aR9z2bSepznUaipXw2jcFZLS2gXKaUigZYV06L0PKKiPhi1XOR0WaTWdrlNYma-j6iVRpQdjp6PmN87pwaW3PYo-Zk8JD4rXFCi9M55BZ__m_DDTiH20aytHbWb_3Xi2omr9dUNLhQXeai5E1f3h3Dk2uoXKEGDRuXBDewbPL-CY8gJaKdPTnCu1CDcoa1cGE6qQHDmstFvTF_MVjjGDseNj8...
+
+
+================================================================================
+EMAIL 8
+================================================================================
+Subject: [Webinar] Faster code reviews with AI
+From: Atlassian <info@e.atlassian.com>
+Date: Thu, 05 Feb 2026 12:45:44 -0600
+
+Body:
+Atlassian
+ 
+February 10‑11, 2026
+ 
+Webinar
+ 
+AI code review workflows in Bitbucket and GitHub
+ 
+Ship faster, cleaner code
+ 
+Last chance to sign up.
+ 
+If you're drowning in open pull requests and constantly dealing with merge conflicts, rework, and repeated retesting, this webinar is for you.
+ 
+Join us live on Feb 10th/11th, 2026 to learn how Rovo Dev's AI‑powered code review speeds up PR cycles, improves code quality, and helps you get to production faster.
+ 
+We'll share the workflow Atlassian teams use to cut PR cycle times by 45%.
+ 
+What we'll cover
+ 
+* How to enable Rovo Dev's AI‑powered code review for Bitbucket and GitHub repositories
+ 
+* How to set up Rovo Dev to check your code against your organization's custom coding standards, security, and compliance criteria
+ 
+* How to link Rovo Dev to a Jira issue to automatically check your code against issue requirements
+ 
+* Practical ways to improve code quality that you can implement immediately
+ 
+There will...
+
+
+================================================================================
+EMAIL 9
+================================================================================
+Subject: Try Opus 4.6 in Bolt
+From: "Eric at Bolt.new" <ericsimons@stackblitz.com>
+Date: Thu, 5 Feb 2026 10:43:57 -0800
+
+Body:
+Try it now. The more complex your codebase, the better it performs. ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­
+
+Opus 4.6 is here and you can try it in Bolt, free for the next 48 hours!
+
+Dom, our founding AI engineer, was genuinely blown away when testing it. But why take our word for it wh...
+
+
+================================================================================
+EMAIL 10
+================================================================================
+Subject: Unlock more value from Atlassian – IDC white paper
+From: Atlassian <info@e.atlassian.com>
+Date: Thu, 05 Feb 2026 12:23:28 -0600
+
+Body:
+Atlassian
+ 
+Download the white paper from IDC today
+
+G'Day Krell,
+ 
+Teams today are under pressure to innovate faster, deliver more with less, and adapt to an AI‑driven world. But standard, out‑of‑the‑box software often isn't enough.
+ 
+That's where the Atlassian Ecosystem comes in.
+ 
+In a new white paper, Building Value Together: Atlassian Partner Success, IDC looks at how partners are using Atlassian products and Marketplace apps together to build intelligent, integrated solutions that fit how their teams actually work.
+>> https://www.atlassian.com/whitepapers/atlassian-partner-success?utm_source=sfmc&utm_medium=email&utm_campaign=email-1B_ACM-9199&jobid=107831919&subid=1948890553
+ 
+With Jira, Confluence, Jira Service Management, and more, organizations are using Atlassian to turn disconnected tools and siloed information into a connected system of work with specialized Marketplace apps, integrations, and AI‑powered solutions.
+ 
+The IDC report highlights where organizat...
+
+
+================================================================================
+EMAIL 11
+================================================================================
+Subject: Mission Brief: Your Year in Meetings
+From: Mackenzie at Fathom <hello@fathom.video>
+Date: Thu, 5 Feb 2026 09:11:13 -0800
+
+Body:
+Houston: We
+
+have a recap.
+
+YOUR 2025 IN MEETINGS
+
+Hi, John!
+
+Is it February? Yes. Was that on purpose? Also yes. Because meeting data matters most when it helps you make better decisions going forward. With the new year in orbit, here’s a look at how you used Fathom in 2025 – and what it tells us about how you can work even better next year.
+
+In 2025 you recorded
+
+259 meetings using Fathom.
+
+That puts you in the top
+
+5%
+
+of Fathom users!
+
+"What themes came up most often across my meetings last year?"
+Ask Fathom → (https://www2.fathom.video/e3t/Ctc/I7+113/d2jRfk04/VWw3Ms3-HV_2W9djYcV5vCMdcW1HN78y5K8J2qN7qyl0g3prCCW7lCdLW6lZ3mCW98pcCT1MsRrsN25Ls_8g263xW3xtJSR8r9jSJW1vGz9S6p4nLpVm-L4y1r3mb4W1l5dT612V3d2W4csTVM7gD6YVW7cvX9N4X4xr0N49s1WKf9dstN8lzk_0N7dhyW83D83c8c9mwyVPVyv66QYXNqVC7tkn4kzW1KW6XMPD03fnfTrW2t2srr7t6LGbW3bRpQp3jgQPfW65Fm6v5LG3FKW7bm0M-5HlyyZW8yC77R5PHDFcW63ZRfC5B_mpKW8MqVtx7FWTdqW4Qq7Ry2SNTPYW7PXK-Z2YQVSmW4wD2-16SDr7zf2w61MR04 )
+
+In those meetings, Fatho...
+
+
+================================================================================
+EMAIL 12
+================================================================================
+Subject: Notice of listings closed
+From: Amazon Services <donotreply@amazon.com>
+Date: Thu, 5 Feb 2026 16:21:16 +0000
+
+Body:
+
+
+
+================================================================================
+EMAIL 13
+================================================================================
+Subject: Happening Tomorrow: Mobile Builder Spotlight + Office Hours
+From: "'Replit' via Shared Access" <sharedaccess@keplercommerce.com>
+Date: Thu, 05 Feb 2026 16:13:02 +0000
+
+Body:
+<https://luma.com/hnhzaalt> 
+
+ Join us for a Builder Spotlight where Adquena Faine walks us through how she 
+built ForageFriends with Replit, from idea to app.
+
+Then we're opening it up for live office hours. Bring your mobile questions 
+and get answers from the team.
+
+- Adquena's journey building ForageFriends
+- Live office hours, ask us anything about mobile
+- Tips, feedback, and what's next for the Buildathon
+
+Friday, February 6
+9:00 AM PT / 12:00 PM ET
+
+ RSVP: https://luma.com/hnhzaalt
+
+Save your spot  <https://luma.com/hnhzaalt>
+
+ 
+
+ <https://twitter.com/Replit> <https://www.linkedin.com/company/repl-it> 
+<https://www.youtube.com/channel/UCgoJjdR6-7AMu9fDitb6nVw>  
+<https://www.instagram.com/repl.it/?hl=en>
+
+Sent by Replit
+1001 E Hillsdale Blvd, Suite 400, Foster City, CA 94404 
+
+Unsubscribe here 
+<https://links.replit.com/s/u/pssb9gUtSj3l0qlYViZN9WQ3uxfDO90LwZTNCfbB5--sTyAfhOVTnkDAaQpIcmoj86_lyuhoCRl8PcOw0FfpWevkp8FKaI_Ex0CBSeUkxA3ddW3iATjj5CLhJ4EqKzLUd48XGo6Wy_Ajpkv0y09O725MWVaM...
+
+
+================================================================================
+EMAIL 14
+================================================================================
+Subject: This AMC trick slashed ACoS 40%
+From: Chris Rawlings <chris@sophiesociety.com>
+Date: Thu, 5 Feb 2026 15:01:23 +0000 (GMT)
+
+Body:
+With guardrails for video adsMost people think running Amazon ads is basically picking your poison…
+
+You choose Option A where you pick every keyword yourself (takes forever + gets messy fast).
+
+Or Option B where you let Amazon go “automatic” (then it blows money on a bunch of searches that never get buys).
+
+But we tried a third way where we let Amazon do the picking but keep it on a tight leash.
+
+Instead of telling Amazon exactly what words to show up for we used the setting that basically says “show this video ad on searches related to my product page”.
+
+Thats usually risky because Amazon tends to get a bit too creative and starts showing you for random stuff which obviously isnt good for your clicks or budget.
+
+So we added a filter.
+
+We used Amazon’s audience tool to build a “likely buyers” group based on searches that already made us money in the past. Then we told Amazon to run broad but bid higher if the shopper matches this proven buyer group.
+
+(Basically we were...
+
+
+================================================================================
+EMAIL 15
+================================================================================
+Subject: We've been working hard to keep up with you
+From: Team at Read <support@e.read.ai>
+Date: Thu, 05 Feb 2026 14:33:24 +0000 (UTC)
+
+Body:
+February feature releases plus a webinar you won't want to miss out on.
+
+Read It!
+February, 2026
+We've been working hard to keep up with you. Read AI has enhanced its Google Docs and Microsoft OneNote integrations, added Linear support, launched a desktop app, and added shared folders. And don't miss our upcoming webinar on running effective meetings and navigating power dynamics. Register to receive a free copy of Rebecca Hinds' new book, Your Best Meeting Ever.
+Feature Spotlight 🌟
+( https://app.read.ai/analytics/integrations/user/note-taking/google?utm_source=sendgrid&utm_medium=email&utm_campaign=newsletter&utm_content=february2026_image_smart_notetaking )
+All your meetings, organized in Google Docs and Microsoft OneNote
+Read AI now delivers complete meeting reports directly to Google Docs and Microsoft OneNote. Your full transcript, AI-generated summary, action items, and key questions are saved to your chosen platform, making them easy to access and share.
+
+Integrate You...
+
+
+================================================================================
+EMAIL 16
+================================================================================
+Subject: [Webinar] Using Lucid as your single source of truth
+From: Lucid <webinars@e.lucid.co>
+Date: Thu, 5 Feb 2026 08:11:34 -0600 (CST)
+
+Body:
+
+
+.
+
+
+
+================================================================================
+EMAIL 17
+================================================================================
+Subject: [Webinar] Using Lucid as your single source of truth
+From: "'Lucid' via Software Subscription" <saas@keplercommerce.com>
+Date: Thu, 5 Feb 2026 08:10:57 -0600 (CST)
+
+Body:
+
+
+.
+

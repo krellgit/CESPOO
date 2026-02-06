@@ -36,7 +36,25 @@ class GmailHandler:
                     )
                 flow = InstalledAppFlow.from_client_secrets_file(
                     'credentials.json', config.SCOPES)
-                creds = flow.run_local_server(port=0)
+
+                # Manual OAuth flow for WSL compatibility
+                auth_url, _ = flow.authorization_url(prompt='consent')
+
+                print("\n" + "="*80)
+                print("GOOGLE OAUTH AUTHORIZATION")
+                print("="*80)
+                print("\nPlease visit this URL to authorize:")
+                print(f"\n{auth_url}\n")
+                print("After authorizing, you'll be redirected to a URL that starts with")
+                print("'http://localhost' - copy the ENTIRE URL from your browser's address bar")
+                print("and paste it below.")
+                print("="*80 + "\n")
+
+                code = input("Paste the full redirect URL here: ").strip()
+
+                # Extract the authorization response
+                flow.fetch_token(authorization_response=code)
+                creds = flow.credentials
 
             # Save the credentials for the next run
             with open('token.json', 'w') as token:
